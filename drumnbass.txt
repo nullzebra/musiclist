@@ -2,7 +2,7 @@
 Excluding secondary distribution, which is expressly prohibited
 [dub packs]
 Audio - Patreon
-Buunshin - Patreon
+Buunshin - Patreon(incomplete)
 Fredrick DUB
 Sullivan DUB
 Noisia - Secret Dubs on Limited Edition USB(https://noisia.bandcamp.com/merch/noisia-secret-dubs-on-limited-edition-usb)
